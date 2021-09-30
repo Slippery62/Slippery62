@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Slippery62   Steve
+- 👋 Hi, I’m @Slippery62 -  Steve
 - 👀 I’m interested in ... Data Science, Kali, SDR
 - 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ...Jupyter, Python , Pandas and Matplotlib
